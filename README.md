@@ -45,7 +45,7 @@ The dashboard follows a "Professional Financial Terminal" aesthetic:
 https://github.com/user-attachments/assets/a3d177e3-9d71-4544-ad50-9a972c7a9fc4
 
 
-
+### Built by Snazzy-devv
 
 ## 📁 Repository Structure
 
@@ -56,4 +56,4 @@ https://github.com/user-attachments/assets/a3d177e3-9d71-4544-ad50-9a972c7a9fc4
 └── README.md           # Project documentation
 
 
-### Built by Snazzy-devv
+

@@ -31,12 +31,22 @@ The dashboard follows a "Professional Financial Terminal" aesthetic:
 ## 📸 Media & Demos
 
 ### Dashboard Screenshot
-![Dashboard Screenshot](INSERT_LINK_TO_YOUR_IMAGE_HERE)  
-*Replace this link with your uploaded screenshot.*
+![Dashboard Screenshot]
+<img width="1366" height="768" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/7814f66b-9acf-4c72-babf-62581029e01c" />
+<img width="1366" height="768" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/ce82e61d-dfbe-4fe7-a79a-50a5f6394ed2" />
+<img width="1366" height="768" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/26cec592-8409-45df-8feb-d23fb2b993f4" />
+
+
 
 ### Video Walkthrough
-[📺 Watch the Live Demo](INSERT_LINK_TO_YOUR_VIDEO_HERE)  
-*Record your OBS walkthrough and paste the YouTube/Loom link here.*
+[📺 Watch the Live Demo]
+
+
+https://github.com/user-attachments/assets/a3d177e3-9d71-4544-ad50-9a972c7a9fc4
+
+
+
+
 
 ## 📁 Repository Structure
 

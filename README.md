@@ -47,7 +47,6 @@ https://github.com/user-attachments/assets/a3d177e3-9d71-4544-ad50-9a972c7a9fc4
 
 
 
-
 ## 📁 Repository Structure
 
 ```plaintext
@@ -56,4 +55,5 @@ https://github.com/user-attachments/assets/a3d177e3-9d71-4544-ad50-9a972c7a9fc4
 ├── docs/               # Technical PRD and workflow diagrams
 └── README.md           # Project documentation
 
-Built by Snazzy-devv
+
+### Built by Snazzy-devv
